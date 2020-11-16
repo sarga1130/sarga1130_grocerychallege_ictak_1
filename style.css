@@ -1,0 +1,21 @@
+*{
+    padding : 0;
+    margin : 0;
+}
+
+body{
+    background-size: repeat;
+}
+#tab{
+    color: blue;
+    margin-top: 8%;
+    margin-bottom: 40%;
+    padding: 60px;
+    background-color:white; 
+    font-size: larger;
+    border: 2px solid white;
+
+}
+/* #q{
+    border: 5px solid black;
+} */
